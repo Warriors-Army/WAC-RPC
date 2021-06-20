@@ -36,4 +36,4 @@ DiscordRpcClient client = new DiscordRpcClient("ID de l'appli");
 Les noms des images sont ceux des images que vous avez upload sur votre appli dans l'onglet "Art Assets" de l'onglet "Rich Presence"
 ![image](https://user-images.githubusercontent.com/73444916/122687537-3dedaf80-d217-11eb-93c1-f17cde46e2b7.png)
 
-Pour lancer l'appli vous avez besoin de ce qui se trouve dans le dossier [publish](WAC/WAC/publish)
+Pour lancer l'appli vous avez besoin de ce qui se trouve dans le dossier [publish](WAC/WAC/publish) et lancer le [WAC.exe](WAC/WAC/publish/WAC.exe)
